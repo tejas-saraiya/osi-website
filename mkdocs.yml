@@ -1,0 +1,21 @@
+# Theme data - do not change 
+theme:
+  name: 'material'
+
+# Global site metadata 
+# Shows up in the site's headers (i.e. metadata fed to search engines/social media) 
+# as well as in site footers (i.e. the copyright footer)
+site_name: Open Semantic Interchange
+site_description: This is the website for the Open Semantic Interchange
+copyright: © 2026- The Open Semantic Interchange Authors
+
+
+# Drives the sitenav
+
+nav: 
+  - Home: 'index.md'
+  - Spec: 'spec.md'
+  - Documentation: '/docs/index.md'
+  - GitHub: 'https://github.com/open-semantic-interchange'
+  - Community: 'community.md'
+  - Blog: 'blog.md'
